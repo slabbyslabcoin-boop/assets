@@ -1,0 +1,10 @@
+{
+  "name": "SLABCOIN",
+  "symbol": "SLAB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xCe8e16C1C6FdDE12dc966108b70c0acb244d173E",
+  "chainId": 56,
+  "type": "token",
+  "logo": "https://raw.githubusercontent.com/siabbyslabcoin-boop/assets/master/blockchains/smartchain/assets/0xCe8e16C1C6FdDE12dc966108b70c0acb244d173E/logo.png"
+}
