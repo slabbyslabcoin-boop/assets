@@ -1,0 +1,10 @@
+{
+  "name": "SLABCOIN",
+  "symbol": "SLAB",
+  "decimals": 18,
+  "description": "The official meme token of Slab City. Rug-free, hype-free, 100% slab built.",
+  "website": "https://x.com/coin_slab29049",
+  "twitter": "https://x.com/coin_slab29049",
+  "chainId": 56,
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xCe8e16C1C6FdDE12dc966108b70c0acb244d173E/logo.png"
+}
